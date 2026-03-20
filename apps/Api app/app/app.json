@@ -1,0 +1,17 @@
+{
+  "id": "b3bb53b2-66bf-4db5-9c5f-3156ad8c7fb0",
+  "name": "Api app",
+  "type": "front-end",
+  "slug": "b3bb53b2-66bf-4db5-9c5f-3156ad8c7fb0",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-20T10:20:13.729Z",
+  "organizationId": "7715a02b-323a-4633-a27b-da2b140a0c4f",
+  "userId": "31f2cdc3-b28a-4451-9d4b-c13cc5f31d85",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.21.7-beta-ee"
+}
