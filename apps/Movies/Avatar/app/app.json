@@ -1,0 +1,17 @@
+{
+  "id": "9613c342-8ab2-409c-ac1f-469069be886d",
+  "name": "Avatar",
+  "type": "front-end",
+  "slug": "9613c342-8ab2-409c-ac1f-469069be886d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-23T14:08:24.046Z",
+  "organizationId": "74d7613d-856a-48a5-a3cb-63a04013feeb",
+  "userId": "fba12aea-fcad-42fa-af59-3aba123c6607",
+  "icon": "menuhome",
+  "tooljetVersion": "3.21.8-beta-ee"
+}
