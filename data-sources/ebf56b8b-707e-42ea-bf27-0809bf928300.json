@@ -7,6 +7,7 @@
     "development": {
       "host": "9.234.17.31",
       "port": 5432,
+      "database": "app_dev",
       "ssh_port": 22,
       "username": "postgres",
       "ssh_enabled": "disabled",
@@ -19,6 +20,7 @@
     "production": {
       "host": "9.234.17.31",
       "port": 5432,
+      "database": "app_prod",
       "ssh_port": 22,
       "username": "postgres",
       "ssh_enabled": "disabled",
@@ -31,6 +33,7 @@
     "staging": {
       "host": "9.234.17.31",
       "port": 5432,
+      "database": "app_stag",
       "ssh_port": 22,
       "username": "postgres",
       "ssh_enabled": "disabled",
