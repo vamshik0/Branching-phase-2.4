@@ -2,8 +2,8 @@
   "ebf56b8b-707e-42ea-bf27-0809bf928300": {
     "name": "postgresql",
     "kind": "postgresql",
-    "updatedAt": "2026-03-23T14:10:14.236Z",
-    "contentHash": "3fae82550d46c05c825e99d5c24e8cd0fc84cedd9e9151ec92ebfa5b3f73df59"
+    "updatedAt": "2026-03-23T15:30:33.084Z",
+    "contentHash": "de9355ee29098f612e0258a83574a24ad20e1f23ba24ce899b297444b694201b"
   },
-  "lastUpdatedAt": "2026-03-23T14:10:14.236Z"
+  "lastUpdatedAt": "2026-03-23T15:30:33.085Z"
 }
