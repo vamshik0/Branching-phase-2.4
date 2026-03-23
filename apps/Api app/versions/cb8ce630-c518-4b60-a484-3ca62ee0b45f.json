@@ -10,7 +10,14 @@
     "backgroundFxQuery": "",
     "appMode": "auto"
   },
-  "pageSettings": null,
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
   "showViewerNavigation": true,
   "homePageId": "f4d076e9-b1ce-40b1-a427-430671c253ab",
   "versionType": "branch",
