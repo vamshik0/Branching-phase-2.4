@@ -33,7 +33,7 @@
     "staging": {
       "host": "9.234.17.31",
       "port": 5432,
-      "database": "app_stag",
+      "database": "app_stage",
       "ssh_port": 22,
       "username": "postgres",
       "ssh_enabled": "disabled",
