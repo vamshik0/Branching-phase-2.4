@@ -1,0 +1,12 @@
+{
+  "id": "ea1eefe3-4049-40dd-8d1e-d46b03b721a3",
+  "name": "postgresql2",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "select * from products"
+  },
+  "dataSourceId": "a13da9b7-8877-49de-a591-7c8df3bf9d7d",
+  "appVersionId": "75b05e58-230a-497f-b6ee-99c3e0314544"
+}
