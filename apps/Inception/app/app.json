@@ -1,0 +1,17 @@
+{
+  "id": "885201b7-f2cc-4b1c-bf7d-3b4113e34738",
+  "name": "Inception",
+  "type": "front-end",
+  "slug": "98713004-a337-4f44-8a1d-b23d75147ec7",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-27T18:19:30.312Z",
+  "organizationId": "7c5a791e-5fd2-4c3c-83f9-d112b859ac1a",
+  "userId": "5f72691f-a4ee-4858-9993-bbd39da794fc",
+  "icon": "apps",
+  "tooljetVersion": "3.21.11-beta-ee"
+}
