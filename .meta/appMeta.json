@@ -18,5 +18,9 @@
   "b3bb53b2-66bf-4db5-9c5f-3156ad8c7fb0": {
     "appPath": "apps/Api app",
     "updatedAt": "2026-03-29T07:56:34.000Z"
+  },
+  "b73225d4-3585-4790-8ded-fdfdba8a4c1a": {
+    "appPath": "apps/Dev apps/New Tickets",
+    "updatedAt": "2026-03-29T14:35:07.945Z"
   }
 }

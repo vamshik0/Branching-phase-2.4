@@ -1,0 +1,13 @@
+{
+  "id": "b73225d4-3585-4790-8ded-fdfdba8a4c1a",
+  "name": "New Tickets",
+  "type": "front-end",
+  "slug": "9c043090-6e73-4a51-a594-68c226a45959",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.12-beta-ee"
+}
