@@ -1,0 +1,17 @@
+{
+  "id": "bd9a9dd3-a168-47a0-b6b7-76f7365adfdd",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "eca4412b-efd7-4048-8aab-340df90af793",
+    "actionId": "run-query",
+    "alertType": "info",
+    "queryName": "createBug",
+    "parameters": {}
+  },
+  "sourceId": "a4952884-671f-47b2-882e-b02dce673377",
+  "target": "component",
+  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+}

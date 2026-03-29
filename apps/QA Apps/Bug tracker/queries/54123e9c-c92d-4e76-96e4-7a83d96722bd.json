@@ -1,0 +1,116 @@
+{
+  "id": "54123e9c-c92d-4e76-96e4-7a83d96722bd",
+  "name": "updateBug",
+  "options": {
+    "operation": "update_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "organization_id": "005d33db-c3dd-4013-ba47-93cd9e388078",
+    "table_id": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1707817370118,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+                },
+                "rightField": {}
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "name",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "description",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "severity",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "status",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "reported_by",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "assigned_to",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "created_at",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "updated_at",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        }
+      ]
+    },
+    "list_rows": {},
+    "update_rows": {
+      "columns": {
+        "0": {
+          "column": "name",
+          "value": "{{Object.values(components.0148634c-99cd-414a-82e7-145ba9a111ce.dataUpdates)[0][\"name\"]}}"
+        },
+        "1": {
+          "column": "description",
+          "value": "{{Object.values(components.0148634c-99cd-414a-82e7-145ba9a111ce.dataUpdates)[0][\"description\"]}}"
+        },
+        "2": {
+          "column": "severity",
+          "value": "{{Object.values(components.0148634c-99cd-414a-82e7-145ba9a111ce.dataUpdates)[0][\"severity\"]}}"
+        },
+        "3": {
+          "column": "status",
+          "value": "{{Object.values(components.0148634c-99cd-414a-82e7-145ba9a111ce.dataUpdates)[0][\"status\"]}}"
+        },
+        "4": {
+          "column": "assigned_to",
+          "value": "{{Object.values(components.0148634c-99cd-414a-82e7-145ba9a111ce.dataUpdates)[0][\"assigned_to\"]}}"
+        },
+        "1f8a7048-5d8f-448b-88f2-ae3d802f7f9d": {
+          "column": "updated_at",
+          "value": "{{moment().unix()}}"
+        }
+      },
+      "where_filters": {
+        "76304d3a-7665-4fa7-9000-ad626e4c2909": {
+          "column": "id",
+          "operator": "eq",
+          "value": "{{Object.values(components.0148634c-99cd-414a-82e7-145ba9a111ce.dataUpdates)[0][\"id\"]}}",
+          "id": "76304d3a-7665-4fa7-9000-ad626e4c2909"
+        }
+      }
+    },
+    "delete_rows": {
+      "limit": 1,
+      "order_column": "id"
+    }
+  },
+  "dataSourceId": "f8c20af0-99b9-48b7-9dc9-dd1eee019148",
+  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+}

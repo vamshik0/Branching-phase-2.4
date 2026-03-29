@@ -1,0 +1,90 @@
+{
+  "id": "b92976ac-4df3-4903-8425-0039fd77a42b",
+  "name": "bugStats",
+  "options": {
+    "operation": "list_rows",
+    "transformationLanguage": "javascript",
+    "enableTransformation": true,
+    "organization_id": "005d33db-c3dd-4013-ba47-93cd9e388078",
+    "table_id": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1707820164591,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+                },
+                "rightField": {}
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "name",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "description",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "severity",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "status",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "reported_by",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "assigned_to",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "created_at",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "updated_at",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        }
+      ]
+    },
+    "list_rows": {
+      "order_filters": {
+        "3497acd5-1a46-4f38-899d-676a9ed29915": {
+          "column": "created_at",
+          "order": "asc",
+          "id": "3497acd5-1a46-4f38-899d-676a9ed29915"
+        }
+      }
+    },
+    "transformation": "const totalBugsCount = data.length;\nconst resolvedBugsCount = data.filter((row) => row.status == \"resolved\").length;\n\nreturn {totalBugsCount, resolvedBugsCount, allBugs: data};",
+    "runOnPageLoad": true,
+    "delete_rows": {
+      "limit": 1,
+      "order_column": "id"
+    }
+  },
+  "dataSourceId": "f8c20af0-99b9-48b7-9dc9-dd1eee019148",
+  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+}

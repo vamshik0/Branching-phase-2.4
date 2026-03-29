@@ -1,0 +1,11 @@
+{
+  "id": "7518955e-cc36-480c-8349-7dc5a210c160",
+  "name": "chartData",
+  "options": {
+    "code": "const bugDates = queries.bugStats.data.allBugs.map((row) =>\n  moment.unix(row.created_at).format(\"MM/YYYY\")\n);\nlet monthWiseCountIndex = {};\nlet chartData = [];\n\nbugDates.forEach((row) => {\n  if (monthWiseCountIndex.hasOwnProperty(row)) {\n    chartData[monthWiseCountIndex[row]][\"y\"] += 1;\n  } else {\n    monthWiseCountIndex[row] = chartData.length;\n    chartData.push({ x: row, y: 1 });\n  }\n});\n\nreturn chartData;",
+    "hasParamSupport": true,
+    "parameters": []
+  },
+  "dataSourceId": "1df0a33c-6892-4400-ac9a-d667c7246f18",
+  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+}

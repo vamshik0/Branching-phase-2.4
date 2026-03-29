@@ -1,0 +1,60 @@
+{
+  "id": "e9de4784-d0fb-425f-ba83-c6b029af8c9a",
+  "name": "modal1",
+  "type": "Modal",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": null,
+  "properties": {
+    "useDefaultButton": {
+      "value": "{{false}}"
+    },
+    "title": {
+      "value": "Report a new bug"
+    },
+    "modalHeight": {
+      "value": "380px"
+    }
+  },
+  "general": {},
+  "styles": {
+    "headerBackgroundColor": {
+      "value": "var(--indigo10)",
+      "fxActive": false
+    },
+    "headerTextColor": {
+      "value": "#ffffffff"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "41bd0395-8313-489d-980c-ad487f7a9f5d",
+      "type": "desktop",
+      "top": 970,
+      "left": 1,
+      "width": 4,
+      "height": 30,
+      "componentId": "e9de4784-d0fb-425f-ba83-c6b029af8c9a",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "10eeb2aa-a7d3-4a1d-a81f-982db41bccb4",
+      "type": "mobile",
+      "top": 650,
+      "left": 0,
+      "width": 10,
+      "height": 34,
+      "componentId": "e9de4784-d0fb-425f-ba83-c6b029af8c9a",
+      "dimensionUnit": "count"
+    }
+  ]
+}

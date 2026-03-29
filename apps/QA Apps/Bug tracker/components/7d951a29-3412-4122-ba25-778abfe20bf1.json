@@ -1,0 +1,57 @@
+{
+  "id": "7d951a29-3412-4122-ba25-778abfe20bf1",
+  "name": "button1",
+  "type": "Button",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": "7f8cc947-a169-48d8-8860-ee3f55b6e51b",
+  "properties": {
+    "text": {
+      "value": "Report a bug"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--indigo10)",
+      "fxActive": false
+    },
+    "borderColor": {
+      "value": "#ffffff00"
+    },
+    "borderRadius": {
+      "value": "{{5}}"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "52aae2f4-59cd-445c-95d0-e98d44ffb3e5",
+      "type": "desktop",
+      "top": 20,
+      "left": 37,
+      "width": 4.999999999999999,
+      "height": 40,
+      "componentId": "7d951a29-3412-4122-ba25-778abfe20bf1",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "dae898b5-ccc9-4b85-b7ed-a684fdf43039",
+      "type": "mobile",
+      "top": 20,
+      "left": 35,
+      "width": 6.976744186046512,
+      "height": 30,
+      "componentId": "7d951a29-3412-4122-ba25-778abfe20bf1",
+      "dimensionUnit": "count"
+    }
+  ]
+}
