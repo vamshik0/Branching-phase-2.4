@@ -1,0 +1,135 @@
+{
+  "id": "52b7a9de-a959-4b3c-804b-6cb43173d6c1",
+  "table_name": "bugs",
+  "schema": {
+    "columns": [
+      {
+        "column_name": "id",
+        "data_type": "integer",
+        "column_default": "nextval(\"workspace_005d33db-c3dd-4013-ba47-93cd9e388078\".\"25f44363-b40c-4ef1-8ab4-ebf3eb496f1a_id_seq\"",
+        "character_maximum_length": null,
+        "numeric_precision": 32,
+        "constraints_type": {
+          "is_not_null": true,
+          "is_primary_key": true,
+          "is_unique": false
+        },
+        "keytype": "PRIMARY KEY",
+        "configurations": {}
+      },
+      {
+        "column_name": "name",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "description",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "severity",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "status",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "reported_by",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "assigned_to",
+        "data_type": "character varying",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": null,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "created_at",
+        "data_type": "bigint",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": 64,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      },
+      {
+        "column_name": "updated_at",
+        "data_type": "bigint",
+        "column_default": null,
+        "character_maximum_length": null,
+        "numeric_precision": 64,
+        "constraints_type": {
+          "is_not_null": false,
+          "is_primary_key": false,
+          "is_unique": false
+        },
+        "keytype": "",
+        "configurations": {}
+      }
+    ],
+    "foreign_keys": []
+  }
+}

@@ -5,21 +5,19 @@
     "operation": "list_rows",
     "transformationLanguage": "javascript",
     "enableTransformation": true,
-    "organization_id": "005d33db-c3dd-4013-ba47-93cd9e388078",
-    "table_id": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+    "table_id": "52b7a9de-a959-4b3c-804b-6cb43173d6c1",
     "join_table": {
       "joins": [
         {
-          "id": 1707743804114,
+          "id": 1774771401290,
           "conditions": {
             "operator": "AND",
             "conditionsList": [
               {
                 "operator": "=",
                 "leftField": {
-                  "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-                },
-                "rightField": {}
+                  "table": "52b7a9de-a959-4b3c-804b-6cb43173d6c1"
+                }
               }
             ]
           },
@@ -27,47 +25,10 @@
         }
       ],
       "from": {
-        "name": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+        "name": "52b7a9de-a959-4b3c-804b-6cb43173d6c1",
         "type": "Table"
       },
-      "fields": [
-        {
-          "name": "id",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "name",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "description",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "severity",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "status",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "reported_by",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "assigned_to",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "created_at",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        },
-        {
-          "name": "updated_at",
-          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
-        }
-      ]
+      "fields": []
     },
     "list_rows": {
       "limit": "100",
@@ -101,5 +62,5 @@
     }
   },
   "dataSourceId": "f8c20af0-99b9-48b7-9dc9-dd1eee019148",
-  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+  "appVersionId": "f074ccb3-5469-4886-a6cf-d787173d20ed"
 }

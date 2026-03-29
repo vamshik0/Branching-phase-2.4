@@ -1,0 +1,13 @@
+{
+  "id": "71bd5108-9a32-4350-9c0c-cd17df5e64b4",
+  "name": "Release notes",
+  "type": "front-end",
+  "slug": "71bd5108-9a32-4350-9c0c-cd17df5e64b4",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "layers",
+  "tooljetVersion": "3.21.12-beta-ee"
+}
