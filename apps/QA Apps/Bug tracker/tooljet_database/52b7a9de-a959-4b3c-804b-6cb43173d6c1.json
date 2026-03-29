@@ -1,12 +1,12 @@
 {
-  "id": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
-  "table_name": "bugs_1774771240492",
+  "id": "52b7a9de-a959-4b3c-804b-6cb43173d6c1",
+  "table_name": "bugs",
   "schema": {
     "columns": [
       {
         "column_name": "id",
         "data_type": "integer",
-        "column_default": "nextval(\"workspace_005d33db-c3dd-4013-ba47-93cd9e388078\".\"7fd96cd4-d4d4-4a21-8c85-161a3b3057ed_id_seq\"",
+        "column_default": "nextval(\"workspace_005d33db-c3dd-4013-ba47-93cd9e388078\".\"25f44363-b40c-4ef1-8ab4-ebf3eb496f1a_id_seq\"",
         "character_maximum_length": null,
         "numeric_precision": 32,
         "constraints_type": {
