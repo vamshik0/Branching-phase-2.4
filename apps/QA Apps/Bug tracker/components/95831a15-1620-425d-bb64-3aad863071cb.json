@@ -1,0 +1,74 @@
+{
+  "id": "95831a15-1620-425d-bb64-3aad863071cb",
+  "name": "statistics2",
+  "type": "Statistics",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": "1158341e-7f37-4114-b8ba-a481b8dbb0df",
+  "properties": {
+    "primaryValueLabel": {
+      "value": "Total bugs resolved"
+    },
+    "secondaryValueLabel": {
+      "value": ""
+    },
+    "secondaryValue": {
+      "value": ""
+    },
+    "secondarySignDisplay": {
+      "value": ""
+    },
+    "hideSecondary": {
+      "value": "{{true}}"
+    },
+    "primaryValue": {
+      "value": "{{queries.bugStats.data.resolvedBugsCount}}"
+    },
+    "loadingState": {
+      "value": "{{queries.bugStats.isLoading}}"
+    },
+    "dataAlignment": {
+      "value": "center"
+    },
+    "secondaryValueAlignment": {
+      "value": "vertical"
+    }
+  },
+  "general": {},
+  "styles": {
+    "iconVisibility": {
+      "value": false
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "48bbed3d-84af-41bc-8b25-0f51ea4a68fc",
+      "type": "desktop",
+      "top": 22,
+      "left": 1,
+      "width": 6.000000000000001,
+      "height": 100,
+      "componentId": "95831a15-1620-425d-bb64-3aad863071cb",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "8abb2b1c-7b5b-4ef3-8094-03e8216e200e",
+      "type": "mobile",
+      "top": 20,
+      "left": 22,
+      "width": 21.3953488372093,
+      "height": 152,
+      "componentId": "95831a15-1620-425d-bb64-3aad863071cb",
+      "dimensionUnit": "count"
+    }
+  ]
+}

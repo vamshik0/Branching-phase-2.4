@@ -1,0 +1,18 @@
+{
+  "id": "8d49cc6c-75c0-499f-8a16-6fa8f0592c09",
+  "name": "onCellValueChanged",
+  "index": 0,
+  "event": {
+    "eventId": "onCellValueChanged",
+    "message": "Hello world!",
+    "queryId": "54123e9c-c92d-4e76-96e4-7a83d96722bd",
+    "actionId": "run-query",
+    "debounce": "100",
+    "alertType": "info",
+    "queryName": "updateBug",
+    "parameters": {}
+  },
+  "sourceId": "0148634c-99cd-414a-82e7-145ba9a111ce",
+  "target": "component",
+  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+}

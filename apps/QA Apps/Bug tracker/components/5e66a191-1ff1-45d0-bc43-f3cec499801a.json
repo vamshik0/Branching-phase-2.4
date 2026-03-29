@@ -1,0 +1,57 @@
+{
+  "id": "5e66a191-1ff1-45d0-bc43-f3cec499801a",
+  "name": "textarea1",
+  "type": "TextArea",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": "e9de4784-d0fb-425f-ba83-c6b029af8c9a",
+  "properties": {
+    "placeholder": {
+      "value": "Detailed description of the bug"
+    },
+    "value": {
+      "value": ""
+    },
+    "label": ""
+  },
+  "general": {},
+  "styles": {
+    "borderRadius": {
+      "value": "{{5}}"
+    },
+    "widthType": {
+      "value": "ofField"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "6987383a-401d-42c0-9c48-263aa3291264",
+      "type": "desktop",
+      "top": 80,
+      "left": 9,
+      "width": 32,
+      "height": 80,
+      "componentId": "5e66a191-1ff1-45d0-bc43-f3cec499801a",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "decebd34-1f09-4f18-9dec-67f26871afdf",
+      "type": "mobile",
+      "top": 80,
+      "left": 7,
+      "width": 13.953488372093023,
+      "height": 100,
+      "componentId": "5e66a191-1ff1-45d0-bc43-f3cec499801a",
+      "dimensionUnit": "count"
+    }
+  ]
+}

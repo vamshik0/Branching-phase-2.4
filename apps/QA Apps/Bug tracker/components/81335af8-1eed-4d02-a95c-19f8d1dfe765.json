@@ -1,0 +1,50 @@
+{
+  "id": "81335af8-1eed-4d02-a95c-19f8d1dfe765",
+  "name": "text2",
+  "type": "Text",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": "4f9b067b-31b4-4482-9843-727d63def008",
+  "properties": {
+    "text": {
+      "value": "B U G Z I L L A"
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#ffffffff",
+      "fxActive": false
+    },
+    "textSize": {
+      "value": "{{18}}"
+    },
+    "textAlign": {
+      "value": "right"
+    },
+    "fontWeight": {
+      "value": "normal"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "1ab6a054-d383-4d60-8c39-50ea38bd1477",
+      "type": "desktop",
+      "top": 10,
+      "left": 32,
+      "width": 10,
+      "height": 40,
+      "componentId": "81335af8-1eed-4d02-a95c-19f8d1dfe765",
+      "dimensionUnit": "count"
+    }
+  ]
+}

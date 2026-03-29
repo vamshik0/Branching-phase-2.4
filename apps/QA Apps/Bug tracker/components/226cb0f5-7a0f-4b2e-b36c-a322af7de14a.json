@@ -1,0 +1,46 @@
+{
+  "id": "226cb0f5-7a0f-4b2e-b36c-a322af7de14a",
+  "name": "text7",
+  "type": "Text",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": "e9de4784-d0fb-425f-ba83-c6b029af8c9a",
+  "properties": {
+    "text": {
+      "value": "Email"
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "3299abfb-e4e4-4ba6-9fef-82fe8ee417a4",
+      "type": "desktop",
+      "top": 240,
+      "left": 2,
+      "width": 6,
+      "height": 40,
+      "componentId": "226cb0f5-7a0f-4b2e-b36c-a322af7de14a",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "62ad6a2e-7bb9-4003-a0e1-64e1c6efb52d",
+      "type": "mobile",
+      "top": 240,
+      "left": 0,
+      "width": 13.953488372093023,
+      "height": 30,
+      "componentId": "226cb0f5-7a0f-4b2e-b36c-a322af7de14a",
+      "dimensionUnit": "count"
+    }
+  ]
+}

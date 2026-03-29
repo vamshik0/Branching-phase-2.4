@@ -1,0 +1,114 @@
+{
+  "id": "eca4412b-efd7-4048-8aab-340df90af793",
+  "name": "createBug",
+  "options": {
+    "operation": "create_row",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "organization_id": "005d33db-c3dd-4013-ba47-93cd9e388078",
+    "table_id": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+    "join_table": {
+      "joins": [
+        {
+          "id": 1707743459153,
+          "conditions": {
+            "operator": "AND",
+            "conditionsList": [
+              {
+                "operator": "=",
+                "leftField": {
+                  "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+                },
+                "rightField": {}
+              }
+            ]
+          },
+          "joinType": "INNER"
+        }
+      ],
+      "from": {
+        "name": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+        "type": "Table"
+      },
+      "fields": [
+        {
+          "name": "id",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "name",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "description",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "severity",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "status",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "reported_by",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "assigned_to",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "created_at",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        },
+        {
+          "name": "updated_at",
+          "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+        }
+      ]
+    },
+    "list_rows": {},
+    "create_row": {
+      "0": {
+        "column": "name",
+        "value": "{{components.980d5575-fd74-48e6-98bc-1eca5bbad6f6.value}}"
+      },
+      "1": {
+        "column": "description",
+        "value": "{{components.5e66a191-1ff1-45d0-bc43-f3cec499801a.value}}"
+      },
+      "2": {
+        "column": "severity",
+        "value": "{{components.7818131b-93c9-475c-93d0-939910aeeffc.value}}"
+      },
+      "3": {
+        "column": "created_at",
+        "value": "{{moment().unix()}}"
+      },
+      "4": {
+        "column": "status",
+        "value": "open"
+      },
+      "5": {
+        "column": "reported_by",
+        "value": "{{components.268a2d86-bc58-48ce-92a9-2663868b997d.value}}"
+      },
+      "6": {
+        "column": "updated_at",
+        "value": "{{moment().unix()}}"
+      },
+      "c245cb8a-5396-4a4d-844e-688252188294": {
+        "column": "assigned_to",
+        "value": "none"
+      }
+    },
+    "delete_rows": {
+      "limit": 1,
+      "order_column": "id"
+    }
+  },
+  "dataSourceId": "f8c20af0-99b9-48b7-9dc9-dd1eee019148",
+  "appVersionId": "5c473a85-91c1-4b6f-acb6-fa60bb9e6ad8"
+}

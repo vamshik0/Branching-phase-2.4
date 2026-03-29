@@ -1,0 +1,74 @@
+{
+  "id": "a81bfdc4-20f3-4398-89d6-a6bf60715c6c",
+  "name": "chart1",
+  "type": "Chart",
+  "pageId": "6bdbc92b-0c8a-4ba2-ab72-1594fd36720f",
+  "parent": "1158341e-7f37-4114-b8ba-a481b8dbb0df",
+  "properties": {
+    "title": {
+      "value": ""
+    },
+    "data": {
+      "value": "{{JSON.stringify(queries.chartData.data)}}"
+    },
+    "showAxes": {
+      "value": "{{true}}"
+    },
+    "showGridLines": {
+      "value": "{{true}}"
+    },
+    "markerColor": {
+      "fxActive": false,
+      "value": "#8da4efff"
+    },
+    "loadingState": {
+      "fxActive": true,
+      "value": "{{queries.bugStats.isLoading || queries.chartData.isLoading}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "padding": {
+      "value": "0"
+    },
+    "backgroundColor": {
+      "value": "#fff",
+      "fxActive": false
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "752a7751-27c4-4b2c-b678-990e8d099773",
+      "type": "desktop",
+      "top": 30,
+      "left": 8,
+      "width": 34,
+      "height": 190,
+      "componentId": "a81bfdc4-20f3-4398-89d6-a6bf60715c6c",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "152d2265-8211-4174-a913-a0d1e439f0a3",
+      "type": "mobile",
+      "top": 0,
+      "left": 0,
+      "width": 20,
+      "height": 400,
+      "componentId": "a81bfdc4-20f3-4398-89d6-a6bf60715c6c",
+      "dimensionUnit": "count"
+    }
+  ]
+}
