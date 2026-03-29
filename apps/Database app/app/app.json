@@ -1,0 +1,17 @@
+{
+  "id": "541c2868-d2b2-4fdd-90ed-e39f5ae1cb4d",
+  "name": "Database app",
+  "type": "front-end",
+  "slug": "541c2868-d2b2-4fdd-90ed-e39f5ae1cb4d",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-29T17:30:25.722Z",
+  "organizationId": "713336dc-e150-425a-83e0-c1c545ebbaf1",
+  "userId": "41a3d719-19fc-4b7b-819e-b63fce1946c6",
+  "icon": "globe",
+  "tooljetVersion": "3.21.10-beta-ee"
+}

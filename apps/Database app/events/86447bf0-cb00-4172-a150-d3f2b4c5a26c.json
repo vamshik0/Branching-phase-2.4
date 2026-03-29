@@ -1,0 +1,16 @@
+{
+  "id": "86447bf0-cb00-4172-a150-d3f2b4c5a26c",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "slug": "8f2617dc-7cc0-41a5-8c25-4b40ff5bf608",
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "actionId": "go-to-app",
+    "alertType": "info",
+    "component": "button1"
+  },
+  "sourceId": "013a62db-2f64-40c8-96f6-10f9984acb40",
+  "target": "component",
+  "appVersionId": "b97e8863-706e-46b0-8bfc-fbbbcab4dd13"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "29a6158f-f0ac-4602-8b1f-fcd6f15f3155",
+  "name": "onSelect",
+  "index": 0,
+  "event": {
+    "eventId": "onSelect",
+    "message": "Hello world!",
+    "actionId": "go-to-app",
+    "alertType": "info",
+    "component": "datetimepicker1"
+  },
+  "sourceId": "f3403afc-24d7-422c-a65c-92814be53288",
+  "target": "component",
+  "appVersionId": "b97e8863-706e-46b0-8bfc-fbbbcab4dd13"
+}
