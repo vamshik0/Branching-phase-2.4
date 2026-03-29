@@ -1,12 +1,12 @@
 {
-  "id": "60d19425-93fe-4fba-b292-e7d3df33d0e4",
+  "id": "6aa5b3bb-8d29-4318-92ca-9a2b06992966",
   "name": "textinput1",
   "type": "TextInput",
-  "pageId": "51c24709-a747-48b2-8919-f2d68933dadf",
+  "pageId": "8e84a6fa-8824-44f8-a9e6-bcc4212f8509",
   "parent": null,
   "properties": {
     "value": {
-      "value": "{{queries.680b6672-0e04-4e6d-ad33-ae109b29eae4.data.title}}"
+      "value": "{{queries.14635adb-8143-4cdd-be37-37426fee3064.data.title}}"
     },
     "label": {
       "value": "Label"
@@ -84,11 +84,7 @@
       "value": "ofComponent"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -122,7 +118,7 @@
       "left": 14,
       "width": 10,
       "height": 40,
-      "componentId": "60d19425-93fe-4fba-b292-e7d3df33d0e4",
+      "componentId": "6aa5b3bb-8d29-4318-92ca-9a2b06992966",
       "dimensionUnit": "count"
     },
     {
@@ -132,7 +128,7 @@
       "left": 14,
       "width": 10,
       "height": 40,
-      "componentId": "60d19425-93fe-4fba-b292-e7d3df33d0e4",
+      "componentId": "6aa5b3bb-8d29-4318-92ca-9a2b06992966",
       "dimensionUnit": "count"
     }
   ]
