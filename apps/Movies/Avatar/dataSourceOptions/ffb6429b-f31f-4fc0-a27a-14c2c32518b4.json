@@ -1,5 +1,5 @@
 {
-  "id": "8444271e-ec38-4609-91f8-7ad734b167da",
+  "id": "ffb6429b-f31f-4fc0-a27a-14c2c32518b4",
   "options": {
     "host": {
       "value": "9.234.17.31",
@@ -12,6 +12,11 @@
     "database": {
       "value": "app_prod",
       "encrypted": false
+    },
+    "password": {
+      "encrypted": true,
+      "credential_id": "4489e7b6-f117-474e-9085-ad7738f437f2",
+      "workspace_constant": "{{secrets.password}}"
     },
     "ssh_port": {
       "value": 22,
@@ -46,8 +51,8 @@
       "encrypted": false
     }
   },
-  "environmentId": "120b6ebc-6036-4edb-a9e6-3582dbad5d23",
-  "dataSourceId": "35bd50f4-e0d1-4ace-923f-8785b63c729c",
-  "createdAt": "2026-03-23T14:04:29.906Z",
-  "updatedAt": "2026-03-23T14:15:27.608Z"
+  "environmentId": "e10f397b-729e-46c8-acfb-103fa0f1ed22",
+  "dataSourceId": "556afcd4-0d73-49f4-a6c3-c9a7e1e31016",
+  "createdAt": "2026-03-29T07:59:20.635Z",
+  "updatedAt": "2026-03-29T14:42:59.773Z"
 }
