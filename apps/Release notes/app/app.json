@@ -1,0 +1,17 @@
+{
+  "id": "71bd5108-9a32-4350-9c0c-cd17df5e64b4",
+  "name": "Release notes",
+  "type": "front-end",
+  "slug": "71bd5108-9a32-4350-9c0c-cd17df5e64b4",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-29T07:25:32.793Z",
+  "organizationId": "005d33db-c3dd-4013-ba47-93cd9e388078",
+  "userId": "41a3d719-19fc-4b7b-819e-b63fce1946c6",
+  "icon": "layers",
+  "tooljetVersion": "3.21.10-beta-ee"
+}
