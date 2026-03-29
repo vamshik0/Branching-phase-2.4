@@ -1,5 +1,5 @@
 {
-  "id": "680b6672-0e04-4e6d-ad33-ae109b29eae4",
+  "id": "14635adb-8143-4cdd-be37-37426fee3064",
   "name": "restapi1",
   "options": {
     "method": "get",
@@ -14,6 +14,6 @@
     "transformationLanguage": "javascript",
     "enableTransformation": false
   },
-  "dataSourceId": "4e28770d-aab0-4844-91fa-32a51dd6f6a3",
+  "dataSourceId": "f2f42da2-cd0a-49a3-bb11-baf124d3d57d",
   "appVersionId": "75b05e58-230a-497f-b6ee-99c3e0314544"
 }

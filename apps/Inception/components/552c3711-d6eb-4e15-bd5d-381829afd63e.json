@@ -1,8 +1,8 @@
 {
-  "id": "33b93fdf-8c22-4d2d-b9a8-bc49d2b7727e",
+  "id": "552c3711-d6eb-4e15-bd5d-381829afd63e",
   "name": "button1",
   "type": "Button",
-  "pageId": "51c24709-a747-48b2-8919-f2d68933dadf",
+  "pageId": "8e84a6fa-8824-44f8-a9e6-bcc4212f8509",
   "parent": null,
   "properties": {
     "text": {
@@ -60,11 +60,7 @@
       "value": "primary"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -82,7 +78,7 @@
       "left": 1,
       "width": 4,
       "height": 40,
-      "componentId": "33b93fdf-8c22-4d2d-b9a8-bc49d2b7727e",
+      "componentId": "552c3711-d6eb-4e15-bd5d-381829afd63e",
       "dimensionUnit": "count"
     },
     {
@@ -92,7 +88,7 @@
       "left": 1,
       "width": 4,
       "height": 40,
-      "componentId": "33b93fdf-8c22-4d2d-b9a8-bc49d2b7727e",
+      "componentId": "552c3711-d6eb-4e15-bd5d-381829afd63e",
       "dimensionUnit": "count"
     }
   ]

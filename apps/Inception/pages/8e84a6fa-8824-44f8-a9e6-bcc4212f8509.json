@@ -1,10 +1,10 @@
 {
-  "id": "51c24709-a747-48b2-8919-f2d68933dadf",
+  "id": "8e84a6fa-8824-44f8-a9e6-bcc4212f8509",
   "name": "Home",
   "handle": "home",
   "index": 1,
-  "disabled": null,
-  "hidden": null,
+  "disabled": false,
+  "hidden": false,
   "icon": null,
   "autoComputeLayout": true,
   "appVersionId": "75b05e58-230a-497f-b6ee-99c3e0314544",

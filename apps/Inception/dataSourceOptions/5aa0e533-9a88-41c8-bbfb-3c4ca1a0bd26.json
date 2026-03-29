@@ -1,0 +1,88 @@
+{
+  "id": "5aa0e533-9a88-41c8-bbfb-3c4ca1a0bd26",
+  "dataSourceId": "b84c4da6-f8ef-40f7-bf3a-df7762f9707d",
+  "environmentId": "9684a31e-a88e-4107-a932-d76f45fc3646",
+  "options": {
+    "password": {
+      "workspace_constant": "{{constants.password}}",
+      "credential_id": "e44a1504-e759-4ccd-b077-04a1f21e68b5",
+      "encrypted": true
+    },
+    "connection_type": {
+      "value": "manual",
+      "encrypted": false
+    },
+    "host": {
+      "value": "localhost",
+      "encrypted": false
+    },
+    "port": {
+      "value": 5432,
+      "encrypted": false
+    },
+    "ssl_enabled": {
+      "value": false,
+      "encrypted": false
+    },
+    "ssl_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "allow_dynamic_connection_parameters": {
+      "value": false,
+      "encrypted": false
+    },
+    "ssh_enabled": {
+      "value": "disabled",
+      "encrypted": false
+    },
+    "ssh_port": {
+      "value": 22,
+      "encrypted": false
+    },
+    "ssh_auth_type": {
+      "value": "private_key",
+      "encrypted": false
+    },
+    "ca_cert": {
+      "credential_id": "bcb4f21f-9291-4e78-be5f-f0b921565e31",
+      "encrypted": true
+    },
+    "client_key": {
+      "credential_id": "a193b7a6-1beb-446a-9268-b1db9fe4dd87",
+      "encrypted": true
+    },
+    "client_cert": {
+      "credential_id": "a55f8598-f6c4-44c6-8bb7-a2c6091afa2d",
+      "encrypted": true
+    },
+    "root_cert": {
+      "credential_id": "3ba90cf8-6c02-4c6f-b06f-7b74f8ce2fa0",
+      "encrypted": true
+    },
+    "connection_string": {
+      "credential_id": "5275bb38-2877-43d0-83ed-1b3441a3c99c",
+      "encrypted": true
+    },
+    "ssh_private_key": {
+      "credential_id": "207b000b-2d59-4d76-be5c-fea521dac155",
+      "encrypted": true
+    },
+    "ssh_password": {
+      "credential_id": "d7669da7-38ca-4c1c-9261-efdf2b0b558d",
+      "encrypted": true
+    },
+    "ssh_passphrase": {
+      "credential_id": "1f73c476-8470-45cd-b4b4-6eaf721fe7b4",
+      "encrypted": true
+    },
+    "username": {
+      "value": "postgres",
+      "encrypted": false
+    },
+    "database": {
+      "value": "app_stage",
+      "encrypted": false
+    }
+  }
+}
