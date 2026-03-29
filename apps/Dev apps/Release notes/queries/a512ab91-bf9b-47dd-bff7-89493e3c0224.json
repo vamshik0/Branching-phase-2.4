@@ -9,7 +9,7 @@
     "join_table": {
       "joins": [
         {
-          "id": 1774772225577,
+          "id": 1774773142443,
           "conditions": {
             "operator": "AND",
             "conditionsList": [
@@ -35,7 +35,7 @@
       "order_column": "id"
     },
     "list_rows": {},
-    "runOnPageLoad": true
+    "runOnPageLoad": false
   },
   "dataSourceId": "f8c20af0-99b9-48b7-9dc9-dd1eee019148",
   "appVersionId": "71bd5108-9a32-4350-9c0c-cd17df5e64b4"
