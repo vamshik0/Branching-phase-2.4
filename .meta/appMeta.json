@@ -22,5 +22,9 @@
   "b73225d4-3585-4790-8ded-fdfdba8a4c1a": {
     "appPath": "apps/Dev apps/New Tickets",
     "updatedAt": "2026-03-29T14:35:07.945Z"
+  },
+  "cc1a13ab-a6be-4a44-a94a-316f7e0a9a8d": {
+    "appPath": "apps/qa-2-1",
+    "updatedAt": "2026-03-29T15:15:23.093Z"
   }
 }
