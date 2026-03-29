@@ -5,18 +5,18 @@
     "operation": "list_rows",
     "transformationLanguage": "javascript",
     "enableTransformation": false,
-    "table_id": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+    "table_id": "52b7a9de-a959-4b3c-804b-6cb43173d6c1",
     "join_table": {
       "joins": [
         {
-          "id": 1774769233822,
+          "id": 1774772225577,
           "conditions": {
             "operator": "AND",
             "conditionsList": [
               {
                 "operator": "=",
                 "leftField": {
-                  "table": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a"
+                  "table": "52b7a9de-a959-4b3c-804b-6cb43173d6c1"
                 }
               }
             ]
@@ -25,7 +25,7 @@
         }
       ],
       "from": {
-        "name": "25f44363-b40c-4ef1-8ab4-ebf3eb496f1a",
+        "name": "52b7a9de-a959-4b3c-804b-6cb43173d6c1",
         "type": "Table"
       },
       "fields": []
@@ -38,5 +38,5 @@
     "runOnPageLoad": true
   },
   "dataSourceId": "f8c20af0-99b9-48b7-9dc9-dd1eee019148",
-  "appVersionId": "118fe423-689a-4fde-8cf5-d0b5f7146ac3"
+  "appVersionId": "71bd5108-9a32-4350-9c0c-cd17df5e64b4"
 }
