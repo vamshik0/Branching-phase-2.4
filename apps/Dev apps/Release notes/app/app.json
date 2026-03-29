@@ -3,7 +3,7 @@
   "name": "Release notes",
   "type": "front-end",
   "slug": "71bd5108-9a32-4350-9c0c-cd17df5e64b4",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
