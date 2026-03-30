@@ -1,0 +1,13 @@
+{
+  "id": "950f69aa-67ee-4e56-ac71-58baed70affa",
+  "name": "TC sheet",
+  "type": "front-end",
+  "slug": "5c06f11f-dd62-4362-8a74-7462a3a59add",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "menuhome",
+  "tooljetVersion": "3.21.13-beta-ee"
+}

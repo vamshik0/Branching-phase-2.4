@@ -1,0 +1,58 @@
+{
+  "id": "d6e8b37a-3b37-4039-8bb1-59d787e81b8f",
+  "options": {
+    "host": {
+      "value": "9.234.17.31",
+      "encrypted": false
+    },
+    "port": {
+      "value": 5432,
+      "encrypted": false
+    },
+    "database": {
+      "value": "app_prod",
+      "encrypted": false
+    },
+    "password": {
+      "encrypted": true,
+      "credential_id": "3ad33d38-bb8c-4d8f-ae1f-ccca328f2a66",
+      "workspace_constant": "{{secrets.password}}"
+    },
+    "ssh_port": {
+      "value": 22,
+      "encrypted": false
+    },
+    "username": {
+      "value": "postgres",
+      "encrypted": false
+    },
+    "ssh_enabled": {
+      "value": "disabled",
+      "encrypted": false
+    },
+    "ssl_enabled": {
+      "value": false,
+      "encrypted": false
+    },
+    "ssh_auth_type": {
+      "value": "private_key",
+      "encrypted": false
+    },
+    "connection_type": {
+      "value": "manual",
+      "encrypted": false
+    },
+    "ssl_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "allow_dynamic_connection_parameters": {
+      "value": false,
+      "encrypted": false
+    }
+  },
+  "environmentId": "bc30af0a-b2c5-468d-8d6f-d5db44092bf1",
+  "dataSourceId": "55c61832-cc34-4fec-b5c4-5e23d80fcc5d",
+  "createdAt": "2026-03-30T09:45:17.661Z",
+  "updatedAt": "2026-03-30T09:45:17.730Z"
+}
