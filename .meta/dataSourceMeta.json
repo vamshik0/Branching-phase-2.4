@@ -1,9 +1,15 @@
 {
+  "2ff383a7-4cb8-4a21-9672-86df9cc6ad45": {
+    "name": "postgresql_7",
+    "kind": "postgresql",
+    "updatedAt": "2026-03-30T11:08:03.962Z",
+    "contentHash": "259b976a74462b4a2b558fa2c3cc8a629bdba0808b8d3c69786dc6886ba974bb"
+  },
   "ebf56b8b-707e-42ea-bf27-0809bf928300": {
     "name": "postgresql",
     "kind": "postgresql",
     "updatedAt": "2026-03-27T18:07:20.261Z",
     "contentHash": "c3276c44030364aee4e3b30868b629034b027aa27c1cf831801f34b81d37653d"
   },
-  "lastUpdatedAt": "2026-03-27T18:07:20.261Z"
+  "lastUpdatedAt": "2026-03-30T11:08:03.963Z"
 }
