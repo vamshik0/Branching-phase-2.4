@@ -1,0 +1,13 @@
+{
+  "id": "0ab0e235-0bf1-4987-bf06-c97abb749ae0",
+  "name": "slugg",
+  "type": "front-end",
+  "slug": "slugtest",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sentfast",
+  "tooljetVersion": "3.21.13-beta-ee"
+}
