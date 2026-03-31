@@ -17,7 +17,8 @@
                 "operator": "=",
                 "leftField": {
                   "table": "52b7a9de-a959-4b3c-804b-6cb43173d6c1"
-                }
+                },
+                "rightField": {}
               }
             ]
           },
