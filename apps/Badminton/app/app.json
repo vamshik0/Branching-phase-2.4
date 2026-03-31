@@ -1,0 +1,13 @@
+{
+  "id": "894f7014-f96d-4d88-a332-c828c4a81416",
+  "name": "Badminton",
+  "type": "front-end",
+  "slug": "c2dfc5d0-da21-42f5-9703-c5beb29f1e28",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.13-beta-ee"
+}
