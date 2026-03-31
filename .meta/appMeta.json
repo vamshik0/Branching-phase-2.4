@@ -30,5 +30,9 @@
   "950f69aa-67ee-4e56-ac71-58baed70affa": {
     "appPath": "apps/QA Apps/TC sheet",
     "updatedAt": "2026-03-31T06:33:03.779Z"
+  },
+  "0ab0e235-0bf1-4987-bf06-c97abb749ae0": {
+    "appPath": "apps/slugg",
+    "updatedAt": "2026-03-31T07:12:12.383Z"
   }
 }
