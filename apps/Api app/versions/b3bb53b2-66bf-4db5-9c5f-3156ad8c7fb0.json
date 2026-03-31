@@ -1,5 +1,5 @@
 {
-  "id": "cb8ce630-c518-4b60-a484-3ca62ee0b45f",
+  "id": "b3bb53b2-66bf-4db5-9c5f-3156ad8c7fb0",
   "definition": null,
   "globalSettings": {
     "appInMaintenance": false,
@@ -27,5 +27,6 @@
   "description": null,
   "publishedAt": null,
   "releasedAt": null,
-  "isStub": false
+  "isStub": false,
+  "sourceTag": null
 }
