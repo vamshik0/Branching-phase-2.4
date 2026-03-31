@@ -5,7 +5,7 @@
     "updatedAt": "2026-03-30T11:08:03.962Z",
     "contentHash": "259b976a74462b4a2b558fa2c3cc8a629bdba0808b8d3c69786dc6886ba974bb"
   },
-    "b09b0927-36f2-4a25-bcd6-8fcc68c40d87": {
+  "b09b0927-36f2-4a25-bcd6-8fcc68c40d87": {
     "name": "postgresql_8",
     "kind": "postgresql",
     "updatedAt": "2026-03-30T11:08:30.098Z",
@@ -17,5 +17,11 @@
     "updatedAt": "2026-03-27T18:07:20.261Z",
     "contentHash": "c3276c44030364aee4e3b30868b629034b027aa27c1cf831801f34b81d37653d"
   },
-  "lastUpdatedAt": "2026-03-30T11:08:30.098Z"
+  "f642fbda-e09b-4785-af71-2a5e29f1e1ac": {
+    "name": "restapi",
+    "kind": "restapi",
+    "updatedAt": "2026-03-31T14:05:57.815Z",
+    "contentHash": "43f8b5fcec1aae7e9a2106b583636d7d0db506b0a8c9512989d23a09e665f31c"
+  },
+  "lastUpdatedAt": "2026-03-31T14:05:57.815Z"
 }
