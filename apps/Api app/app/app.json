@@ -8,10 +8,6 @@
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
-  "currentVersionId": null,
-  "createdAt": "2026-03-23T14:04:29.944Z",
-  "organizationId": "74d7613d-856a-48a5-a3cb-63a04013feeb",
-  "userId": "fba12aea-fcad-42fa-af59-3aba123c6607",
   "icon": "floppydisk",
-  "tooljetVersion": "3.21.8-beta-ee"
+  "tooljetVersion": "3.21.12-beta-ee"
 }
