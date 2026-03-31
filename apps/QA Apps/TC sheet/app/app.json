@@ -3,7 +3,7 @@
   "name": "TC sheet",
   "type": "front-end",
   "slug": "5c06f11f-dd62-4362-8a74-7462a3a59add",
-  "isPublic": null,
+  "isPublic": true,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
