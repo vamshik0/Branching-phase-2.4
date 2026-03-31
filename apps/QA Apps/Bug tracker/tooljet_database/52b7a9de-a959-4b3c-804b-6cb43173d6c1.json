@@ -6,7 +6,7 @@
       {
         "column_name": "id",
         "data_type": "integer",
-        "column_default": "nextval(\"workspace_005d33db-c3dd-4013-ba47-93cd9e388078\".\"25f44363-b40c-4ef1-8ab4-ebf3eb496f1a_id_seq\"",
+        "column_default": "nextval(\"workspace_7c5a791e-5fd2-4c3c-83f9-d112b859ac1a\".\"028e5577-32d5-46d1-b15a-d79a0b9bdf1b_id_seq\"",
         "character_maximum_length": null,
         "numeric_precision": 32,
         "constraints_type": {
