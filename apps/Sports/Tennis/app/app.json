@@ -3,7 +3,7 @@
   "name": "Tennis",
   "type": "front-end",
   "slug": "2815d089-a88b-4306-8146-92b421bdc96b",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
