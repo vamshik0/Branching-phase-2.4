@@ -10,7 +10,7 @@
     "body": [],
     "json_body": null,
     "body_toggle": false,
-    "retry_network_errors": null,
+    "retry_network_errors": true,
     "transformationLanguage": "javascript",
     "enableTransformation": false,
     "runOnPageLoad": true
