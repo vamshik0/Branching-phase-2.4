@@ -1,0 +1,18 @@
+{
+  "id": "aadbf781-35d8-461a-a54b-aa95d958051c",
+  "name": "button1 On click",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "899843d6-80e5-4a74-8b46-78f95bd53402",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "button1",
+    "queryName": "SMPL_query_1",
+    "parameters": {}
+  },
+  "sourceId": "7d3e87ee-b40b-4741-952d-9b1b1ac5492a",
+  "target": "component",
+  "appVersionId": "3bb6dcec-c86a-40b6-84f9-023e79511ed5"
+}

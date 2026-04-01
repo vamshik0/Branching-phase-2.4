@@ -1,0 +1,12 @@
+{
+  "id": "899843d6-80e5-4a74-8b46-78f95bd53402",
+  "name": "SMPL_query_1",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "select * from products"
+  },
+  "dataSourceId": "8106a156-9191-47c9-a4f6-e7ce650dc629",
+  "appVersionId": "3bb6dcec-c86a-40b6-84f9-023e79511ed5"
+}
