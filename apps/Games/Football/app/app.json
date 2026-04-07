@@ -3,11 +3,11 @@
   "name": "Football",
   "type": "front-end",
   "slug": "3a0ac1ee-2ef6-493b-a0c3-000bf0cc00cd",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "grid",
-  "tooljetVersion": "3.21.12-beta-ee"
+  "tooljetVersion": "3.21.13-beta-ee"
 }
