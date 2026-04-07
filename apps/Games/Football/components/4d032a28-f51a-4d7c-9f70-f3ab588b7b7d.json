@@ -52,6 +52,9 @@
     },
     "buttonToSubmit": {
       "value": "7595bf7a-37c6-4af7-abc9-7a3b5935aa2b"
+    },
+    "fields": {
+      "value": []
     }
   },
   "general": {},
@@ -76,6 +79,9 @@
     },
     "footerDividerColor": {
       "value": "var(--cc-weak-border)"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
     }
   },
   "generalStyles": {
