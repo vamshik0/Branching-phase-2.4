@@ -5,6 +5,12 @@
     "updatedAt": "2026-03-30T11:08:03.962Z",
     "contentHash": "259b976a74462b4a2b558fa2c3cc8a629bdba0808b8d3c69786dc6886ba974bb"
   },
+  "321833ab-131f-4557-8a3a-139d1b17b7bf": {
+    "name": "moduleDS",
+    "kind": "dynamodb",
+    "updatedAt": "2026-04-07T15:50:04.614Z",
+    "contentHash": "7525f26e0d2315c870801fe5cfb932cd5e7695310bd1e857d6b9c30c4eecada8"
+  },
   "b09b0927-36f2-4a25-bcd6-8fcc68c40d87": {
     "name": "postgresql_8",
     "kind": "postgresql",
@@ -23,5 +29,5 @@
     "updatedAt": "2026-03-31T14:05:57.815Z",
     "contentHash": "43f8b5fcec1aae7e9a2106b583636d7d0db506b0a8c9512989d23a09e665f31c"
   },
-  "lastUpdatedAt": "2026-03-31T14:05:57.815Z"
+  "lastUpdatedAt": "2026-04-07T15:50:04.614Z"
 }

@@ -1,0 +1,23 @@
+{
+  "id": "321833ab-131f-4557-8a3a-139d1b17b7bf",
+  "name": "moduleDS",
+  "kind": "dynamodb",
+  "type": "default",
+  "options": {
+    "development": {
+      "region": "",
+      "access_key": "",
+      "instance_metadata_credentials": "iam_access_keys"
+    },
+    "production": {
+      "region": "",
+      "access_key": "",
+      "instance_metadata_credentials": "iam_access_keys"
+    },
+    "staging": {
+      "region": "",
+      "access_key": "",
+      "instance_metadata_credentials": "iam_access_keys"
+    }
+  }
+}
