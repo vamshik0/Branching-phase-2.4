@@ -3,7 +3,7 @@
   "name": "slugg",
   "type": "front-end",
   "slug": "slugtest",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
